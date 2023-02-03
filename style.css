@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 400;
+}
+#app {
+    background-color: aliceblue;
+}
+#game {
+    background-color: aqua;
+}
+#chatbot {
+    background-color: cornflowerblue;
+}
+.line {
+    width: 80px;
+    height: 5px;
+    background-color: coral;
+    margin: 4px auto;
+}
